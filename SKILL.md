@@ -479,8 +479,9 @@ Detailed documentation in `references/` directory:
 
 - **GitHub**: https://github.com/one-covenant/basilica
 - **Miner Docs**: https://github.com/one-covenant/basilica/blob/main/docs/miner.md
-- **Discord**: https://discord.gg/4s7A5nQAn
-- **Website**: https://basilica.ai/
+- **Discord**: https://discord.gg/GyzhzRWJBQ
+- **Basilica Website**: https://basilica.ai/
+- **Covenant AI**: https://covenant.ai/ (Basilica's parent company)
 - **Bittensor Docs**: https://docs.learnbittensor.org
 
 ## Task Execution Guidelines

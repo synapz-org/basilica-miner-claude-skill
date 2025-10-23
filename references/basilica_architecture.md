@@ -146,5 +146,6 @@ docker run -d \
 - **Mainnet**: Bittensor Finney, Subnet 39
 - **Testnet**: Bittensor Test Network, Subnet 387
 - **Chain Endpoint**: `wss://entrypoint-finney.opentensor.ai:443`
-- **Discord**: https://discord.gg/4s7A5nQqAn
-- **Website**: https://basilica.ai/
+- **Discord**: https://discord.gg/GyzhzRWJBQ
+- **Basilica Website**: https://basilica.ai/
+- **Covenant AI**: https://covenant.ai/ (Basilica's parent company)
